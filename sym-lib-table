@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "swift")(type "KiCad")(uri "${KIPRJMOD}/lib/swift.kicad_sym")(options "")(descr "Swift USB-C charger custom symbols"))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "swift")(type "KiCad")(uri "${KIPRJMOD}/lib/swift.pretty")(options "")(descr "Swift USB-C charger custom footprints"))
+)

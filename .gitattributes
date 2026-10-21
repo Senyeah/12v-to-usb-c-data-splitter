@@ -1,0 +1,2 @@
+# Keep fab outputs byte-identical to what was uploaded
+fab/** -text

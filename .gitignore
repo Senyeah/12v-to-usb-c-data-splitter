@@ -1,0 +1,16 @@
+# Not published
+/enclosure/
+/review/
+/.mcp-backups/
+
+# KiCad local state and backups
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.lck
+\#auto_saved_files#
+_autosave-*
+*.bak
+
+.DS_Store
+__pycache__/
